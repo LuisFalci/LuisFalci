@@ -8,9 +8,9 @@ At that moment, I don't have any professional experience with programmer. But I'
 
 ## GitHub status
 <div align="center">
-  <a href="https://github.com/thalesAlves758">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalesAlves758&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesAlves758&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <a href="https://github.com/LuisFalci">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisFalci&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFalci&layout=compact&langs_count=7&theme=midnight-purple"/>
 <!--   <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=thalesalves758"/> -->
 </div>
   
@@ -27,6 +27,7 @@ At that moment, I don't have any professional experience with programmer. But I'
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Contact
 <div align="center">
