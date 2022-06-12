@@ -4,7 +4,7 @@
 
 My name is Luis Gustavo. I'm a Brazilian dude currently studying Information Systems.
 
-At that moment, I don't have any professional experience with programmer. But I'm excited to be one. 😆   
+At that moment, I don't have any professional experience as a programmer. But I'm excited to be one. 😆   
 
 ## GitHub status
 <div align="center">
