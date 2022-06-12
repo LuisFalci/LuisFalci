@@ -7,10 +7,11 @@ My name is Luis Gustavo. I'm a Brazilian dude currently studying Information Sys
 At that moment, I don't have any professional experience as a programmer. But I'm excited to be one. 😆   
 
 ## GitHub status
-<div align="center">
+
+<div style="display: inline_block" align="center">
   <a href="https://github.com/LuisFalci">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LuisFalci&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFalci&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisFalci&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFalci&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
   
