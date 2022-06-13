@@ -2,7 +2,7 @@
 
 ## Who am I
 
-My name is Luis Gustavo. I'm a Brazilian dude currently studying Information Systems.
+My name is Luis. I'm a Brazilian dude currently studying Information Systems.
 
 At that moment, I don't have any professional experience as a programmer. But I'm excited to be one. 😆   
 
