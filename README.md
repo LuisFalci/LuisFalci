@@ -6,16 +6,6 @@ My name is Luis. I'm a Brazilian dude currently studying Information Systems.
 
 At that moment, I don't have any professional experience as a programmer. But I'm excited to be one. 😆   
 
-## GitHub status
-
-<div style="display: inline_block" align="center">
-  <a href="https://github.com/LuisFalci">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisFalci&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFalci&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-  
-  
-  
 ## Technologies I've worked with
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,6 +24,13 @@ At that moment, I don't have any professional experience as a programmer. But I'
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![]()
 
+## GitHub status
+
+<div style="display: inline_block" align="center">
+  <a href="https://github.com/LuisFalci">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisFalci&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFalci&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
   
 ## Contact
 <div align="center">
