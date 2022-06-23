@@ -16,7 +16,7 @@ At that moment, I don't have any professional experience as a programmer. But I'
   
   
   
-## Skills
+## Technologies I've worked with
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
