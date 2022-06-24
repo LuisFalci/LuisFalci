@@ -2,7 +2,6 @@
 
 ## Who am I
 
-
 <div>
 My name is Luis. I'm a Brazilian dude currently studying Information Systems.
 
